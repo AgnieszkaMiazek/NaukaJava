@@ -16,5 +16,7 @@ public void info() {
     System.out.println("przebieg " + przebieg);
 }
 }
+
+
 /* klasy to np. String. scanner, system*
-m - funkcja/
+m - funkcja */
